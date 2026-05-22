@@ -39,7 +39,7 @@ export default async function BracketPage() {
           <GitBranch className="text-wc-600" /> Bracket proyectado
         </h1>
         <p className="text-sm text-slate-500 mt-1">
-          Top de cada fase según las 100.000 simulaciones Monte Carlo. La columna derecha es el campeón predicho.
+          Top de cada fase según 200.000 simulaciones Monte Carlo · ensemble v2 (5 modelos). La columna derecha es el campeón predicho.
         </p>
       </header>
 

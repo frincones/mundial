@@ -1,0 +1,242 @@
+[
+  {
+    "player_name": "Lionel Messi",
+    "team_code": "ARG",
+    "position": "FWD",
+    "predicted_goals": 4.96608,
+    "prob_top_scorer": 0.18369,
+    "prob_5_plus": 0.52223
+  },
+  {
+    "player_name": "Kylian Mbappé",
+    "team_code": "FRA",
+    "position": "FWD",
+    "predicted_goals": 4.664165,
+    "prob_top_scorer": 0.16279,
+    "prob_5_plus": 0.475745
+  },
+  {
+    "player_name": "Harry Kane",
+    "team_code": "ENG",
+    "position": "FWD",
+    "predicted_goals": 3.90263,
+    "prob_top_scorer": 0.090385,
+    "prob_5_plus": 0.36059
+  },
+  {
+    "player_name": "Lamine Yamal",
+    "team_code": "ESP",
+    "position": "FWD",
+    "predicted_goals": 3.803515,
+    "prob_top_scorer": 0.075955,
+    "prob_5_plus": 0.346885
+  },
+  {
+    "player_name": "Erling Haaland",
+    "team_code": "NOR",
+    "position": "FWD",
+    "predicted_goals": 3.480885,
+    "prob_top_scorer": 0.080465,
+    "prob_5_plus": 0.293475
+  },
+  {
+    "player_name": "Álvaro Morata",
+    "team_code": "ESP",
+    "position": "FWD",
+    "predicted_goals": 3.326255,
+    "prob_top_scorer": 0.04458,
+    "prob_5_plus": 0.266935
+  },
+  {
+    "player_name": "Lautaro Martínez",
+    "team_code": "ARG",
+    "position": "FWD",
+    "predicted_goals": 3.30618,
+    "prob_top_scorer": 0.04071,
+    "prob_5_plus": 0.264265
+  },
+  {
+    "player_name": "Romelu Lukaku",
+    "team_code": "BEL",
+    "position": "FWD",
+    "predicted_goals": 3.24129,
+    "prob_top_scorer": 0.048695,
+    "prob_5_plus": 0.254145
+  },
+  {
+    "player_name": "Cristiano Ronaldo",
+    "team_code": "POR",
+    "position": "FWD",
+    "predicted_goals": 3.20735,
+    "prob_top_scorer": 0.050955,
+    "prob_5_plus": 0.25305
+  },
+  {
+    "player_name": "Memphis Depay",
+    "team_code": "NED",
+    "position": "FWD",
+    "predicted_goals": 2.926775,
+    "prob_top_scorer": 0.03363,
+    "prob_5_plus": 0.20474
+  },
+  {
+    "player_name": "Enner Valencia",
+    "team_code": "ECU",
+    "position": "FWD",
+    "predicted_goals": 2.87979,
+    "prob_top_scorer": 0.0308,
+    "prob_5_plus": 0.197155
+  },
+  {
+    "player_name": "Nico Williams",
+    "team_code": "ESP",
+    "position": "FWD",
+    "predicted_goals": 2.85062,
+    "prob_top_scorer": 0.023835,
+    "prob_5_plus": 0.187005
+  },
+  {
+    "player_name": "Luis Díaz",
+    "team_code": "COL",
+    "position": "FWD",
+    "predicted_goals": 2.79539,
+    "prob_top_scorer": 0.030345,
+    "prob_5_plus": 0.19084
+  },
+  {
+    "player_name": "Jonathan David",
+    "team_code": "CAN",
+    "position": "FWD",
+    "predicted_goals": 2.755205,
+    "prob_top_scorer": 0.020805,
+    "prob_5_plus": 0.16822
+  },
+  {
+    "player_name": "Julián Álvarez",
+    "team_code": "ARG",
+    "position": "FWD",
+    "predicted_goals": 2.75386,
+    "prob_top_scorer": 0.01849,
+    "prob_5_plus": 0.175845
+  },
+  {
+    "player_name": "Vinícius Júnior",
+    "team_code": "BRA",
+    "position": "FWD",
+    "predicted_goals": 2.667405,
+    "prob_top_scorer": 0.02351,
+    "prob_5_plus": 0.16622
+  },
+  {
+    "player_name": "Raúl Jiménez",
+    "team_code": "MEX",
+    "position": "FWD",
+    "predicted_goals": 2.66426,
+    "prob_top_scorer": 0.018465,
+    "prob_5_plus": 0.15609
+  },
+  {
+    "player_name": "Andrej Kramarić",
+    "team_code": "CRO",
+    "position": "FWD",
+    "predicted_goals": 2.63416,
+    "prob_top_scorer": 0.024285,
+    "prob_5_plus": 0.16421
+  },
+  {
+    "player_name": "Darwin Núñez",
+    "team_code": "URU",
+    "position": "FWD",
+    "predicted_goals": 2.50166,
+    "prob_top_scorer": 0.01987,
+    "prob_5_plus": 0.14352
+  },
+  {
+    "player_name": "Breel Embolo",
+    "team_code": "SUI",
+    "position": "FWD",
+    "predicted_goals": 2.38762,
+    "prob_top_scorer": 0.013405,
+    "prob_5_plus": 0.121705
+  },
+  {
+    "player_name": "Cody Gakpo",
+    "team_code": "NED",
+    "position": "FWD",
+    "predicted_goals": 2.378645,
+    "prob_top_scorer": 0.014245,
+    "prob_5_plus": 0.125555
+  },
+  {
+    "player_name": "Son Heung-min",
+    "team_code": "KOR",
+    "position": "FWD",
+    "predicted_goals": 2.32266,
+    "prob_top_scorer": 0.014935,
+    "prob_5_plus": 0.11877
+  },
+  {
+    "player_name": "Raphinha",
+    "team_code": "BRA",
+    "position": "FWD",
+    "predicted_goals": 2.315285,
+    "prob_top_scorer": 0.0127,
+    "prob_5_plus": 0.116805
+  },
+  {
+    "player_name": "Florian Wirtz",
+    "team_code": "GER",
+    "position": "MID",
+    "predicted_goals": 2.256225,
+    "prob_top_scorer": 0.011925,
+    "prob_5_plus": 0.108955
+  },
+  {
+    "player_name": "Mohamed Salah",
+    "team_code": "EGY",
+    "position": "FWD",
+    "predicted_goals": 2.20873,
+    "prob_top_scorer": 0.014345,
+    "prob_5_plus": 0.107685
+  },
+  {
+    "player_name": "Mehdi Taremi",
+    "team_code": "IRN",
+    "position": "FWD",
+    "predicted_goals": 2.186185,
+    "prob_top_scorer": 0.01239,
+    "prob_5_plus": 0.104595
+  },
+  {
+    "player_name": "Bukayo Saka",
+    "team_code": "ENG",
+    "position": "FWD",
+    "predicted_goals": 2.14351,
+    "prob_top_scorer": 0.007845,
+    "prob_5_plus": 0.09411
+  },
+  {
+    "player_name": "Ousmane Dembélé",
+    "team_code": "FRA",
+    "position": "FWD",
+    "predicted_goals": 2.14198,
+    "prob_top_scorer": 0.007395,
+    "prob_5_plus": 0.094615
+  },
+  {
+    "player_name": "James Rodríguez",
+    "team_code": "COL",
+    "position": "MID",
+    "predicted_goals": 2.13537,
+    "prob_top_scorer": 0.00966,
+    "prob_5_plus": 0.09807
+  },
+  {
+    "player_name": "Ante Budimir",
+    "team_code": "CRO",
+    "position": "FWD",
+    "predicted_goals": 2.130645,
+    "prob_top_scorer": 0.01036,
+    "prob_5_plus": 0.09755
+  }
+]

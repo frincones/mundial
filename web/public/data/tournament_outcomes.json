@@ -1,0 +1,482 @@
+[
+  {
+    "team_code": "ESP",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.20621,
+    "prob_runner_up": 0.09391,
+    "prob_third": 0.096385,
+    "prob_fourth": 0.039035,
+    "prob_podium": 0.396505
+  },
+  {
+    "team_code": "ARG",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.151945,
+    "prob_runner_up": 0.087985,
+    "prob_third": 0.088835,
+    "prob_fourth": 0.043045,
+    "prob_podium": 0.328765
+  },
+  {
+    "team_code": "FRA",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.0997,
+    "prob_runner_up": 0.0737,
+    "prob_third": 0.074145,
+    "prob_fourth": 0.045005,
+    "prob_podium": 0.247545
+  },
+  {
+    "team_code": "ENG",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.063685,
+    "prob_runner_up": 0.060245,
+    "prob_third": 0.060985,
+    "prob_fourth": 0.04544,
+    "prob_podium": 0.184915
+  },
+  {
+    "team_code": "NED",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.048125,
+    "prob_runner_up": 0.05024,
+    "prob_third": 0.05165,
+    "prob_fourth": 0.042905,
+    "prob_podium": 0.150015
+  },
+  {
+    "team_code": "BRA",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.0452,
+    "prob_runner_up": 0.04912,
+    "prob_third": 0.050815,
+    "prob_fourth": 0.04454,
+    "prob_podium": 0.145135
+  },
+  {
+    "team_code": "COL",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.04164,
+    "prob_runner_up": 0.04782,
+    "prob_third": 0.046515,
+    "prob_fourth": 0.042005,
+    "prob_podium": 0.135975
+  },
+  {
+    "team_code": "POR",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.04057,
+    "prob_runner_up": 0.047905,
+    "prob_third": 0.04595,
+    "prob_fourth": 0.04145,
+    "prob_podium": 0.134425
+  },
+  {
+    "team_code": "CRO",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.030895,
+    "prob_runner_up": 0.03892,
+    "prob_third": 0.03761,
+    "prob_fourth": 0.03793,
+    "prob_podium": 0.107425
+  },
+  {
+    "team_code": "GER",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.02589,
+    "prob_runner_up": 0.034765,
+    "prob_third": 0.0353,
+    "prob_fourth": 0.03887,
+    "prob_podium": 0.095955
+  },
+  {
+    "team_code": "MAR",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.023655,
+    "prob_runner_up": 0.032935,
+    "prob_third": 0.033155,
+    "prob_fourth": 0.03669,
+    "prob_podium": 0.089745
+  },
+  {
+    "team_code": "NOR",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.023625,
+    "prob_runner_up": 0.03228,
+    "prob_third": 0.029065,
+    "prob_fourth": 0.03145,
+    "prob_podium": 0.08497
+  },
+  {
+    "team_code": "JPN",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.02261,
+    "prob_runner_up": 0.03314,
+    "prob_third": 0.032325,
+    "prob_fourth": 0.037355,
+    "prob_podium": 0.088075
+  },
+  {
+    "team_code": "ECU",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.022525,
+    "prob_runner_up": 0.03283,
+    "prob_third": 0.033345,
+    "prob_fourth": 0.03854,
+    "prob_podium": 0.0887
+  },
+  {
+    "team_code": "BEL",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.019945,
+    "prob_runner_up": 0.028425,
+    "prob_third": 0.030795,
+    "prob_fourth": 0.033975,
+    "prob_podium": 0.079165
+  },
+  {
+    "team_code": "SUI",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.018705,
+    "prob_runner_up": 0.02927,
+    "prob_third": 0.029295,
+    "prob_fourth": 0.035495,
+    "prob_podium": 0.07727
+  },
+  {
+    "team_code": "SEN",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.01405,
+    "prob_runner_up": 0.022045,
+    "prob_third": 0.020745,
+    "prob_fourth": 0.025415,
+    "prob_podium": 0.05684
+  },
+  {
+    "team_code": "TUR",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.013665,
+    "prob_runner_up": 0.02154,
+    "prob_third": 0.02201,
+    "prob_fourth": 0.028365,
+    "prob_podium": 0.057215
+  },
+  {
+    "team_code": "URU",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.01303,
+    "prob_runner_up": 0.024785,
+    "prob_third": 0.021755,
+    "prob_fourth": 0.031865,
+    "prob_podium": 0.05957
+  },
+  {
+    "team_code": "AUT",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00969,
+    "prob_runner_up": 0.016435,
+    "prob_third": 0.014845,
+    "prob_fourth": 0.02102,
+    "prob_podium": 0.04097
+  },
+  {
+    "team_code": "MEX",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.009225,
+    "prob_runner_up": 0.016625,
+    "prob_third": 0.0188,
+    "prob_fourth": 0.028905,
+    "prob_podium": 0.04465
+  },
+  {
+    "team_code": "AUS",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.007575,
+    "prob_runner_up": 0.01463,
+    "prob_third": 0.014135,
+    "prob_fourth": 0.02022,
+    "prob_podium": 0.03634
+  },
+  {
+    "team_code": "IRN",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00659,
+    "prob_runner_up": 0.01348,
+    "prob_third": 0.0127,
+    "prob_fourth": 0.02075,
+    "prob_podium": 0.03277
+  },
+  {
+    "team_code": "PAR",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.006525,
+    "prob_runner_up": 0.01311,
+    "prob_third": 0.01225,
+    "prob_fourth": 0.01935,
+    "prob_podium": 0.031885
+  },
+  {
+    "team_code": "CAN",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.005895,
+    "prob_runner_up": 0.012565,
+    "prob_third": 0.013965,
+    "prob_fourth": 0.024265,
+    "prob_podium": 0.032425
+  },
+  {
+    "team_code": "ALG",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.004965,
+    "prob_runner_up": 0.010215,
+    "prob_third": 0.009995,
+    "prob_fourth": 0.01522,
+    "prob_podium": 0.025175
+  },
+  {
+    "team_code": "KOR",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00439,
+    "prob_runner_up": 0.00995,
+    "prob_third": 0.009885,
+    "prob_fourth": 0.018105,
+    "prob_podium": 0.024225
+  },
+  {
+    "team_code": "UZB",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.002565,
+    "prob_runner_up": 0.005625,
+    "prob_third": 0.005675,
+    "prob_fourth": 0.010165,
+    "prob_podium": 0.013865
+  },
+  {
+    "team_code": "PAN",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.002415,
+    "prob_runner_up": 0.00616,
+    "prob_third": 0.006055,
+    "prob_fourth": 0.011605,
+    "prob_podium": 0.01463
+  },
+  {
+    "team_code": "CIV",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.002165,
+    "prob_runner_up": 0.00572,
+    "prob_third": 0.00562,
+    "prob_fourth": 0.011185,
+    "prob_podium": 0.013505
+  },
+  {
+    "team_code": "USA",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00202,
+    "prob_runner_up": 0.00522,
+    "prob_third": 0.00557,
+    "prob_fourth": 0.01116,
+    "prob_podium": 0.01281
+  },
+  {
+    "team_code": "SCO",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.001965,
+    "prob_runner_up": 0.0051,
+    "prob_third": 0.004905,
+    "prob_fourth": 0.010475,
+    "prob_podium": 0.01197
+  },
+  {
+    "team_code": "EGY",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00185,
+    "prob_runner_up": 0.004625,
+    "prob_third": 0.00472,
+    "prob_fourth": 0.00993,
+    "prob_podium": 0.011195
+  },
+  {
+    "team_code": "CZE",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.001285,
+    "prob_runner_up": 0.003775,
+    "prob_third": 0.003705,
+    "prob_fourth": 0.00832,
+    "prob_podium": 0.008765
+  },
+  {
+    "team_code": "COD",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.000975,
+    "prob_runner_up": 0.00253,
+    "prob_third": 0.00251,
+    "prob_fourth": 0.00504,
+    "prob_podium": 0.006015
+  },
+  {
+    "team_code": "TUN",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00087,
+    "prob_runner_up": 0.002,
+    "prob_third": 0.00215,
+    "prob_fourth": 0.00493,
+    "prob_podium": 0.00502
+  },
+  {
+    "team_code": "JOR",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.000825,
+    "prob_runner_up": 0.00228,
+    "prob_third": 0.00241,
+    "prob_fourth": 0.004895,
+    "prob_podium": 0.005515
+  },
+  {
+    "team_code": "SWE",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.000795,
+    "prob_runner_up": 0.001985,
+    "prob_third": 0.00224,
+    "prob_fourth": 0.004945,
+    "prob_podium": 0.00502
+  },
+  {
+    "team_code": "IRQ",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00033,
+    "prob_runner_up": 0.00096,
+    "prob_third": 0.001015,
+    "prob_fourth": 0.002545,
+    "prob_podium": 0.002305
+  },
+  {
+    "team_code": "NZL",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.000305,
+    "prob_runner_up": 0.00131,
+    "prob_third": 0.001555,
+    "prob_fourth": 0.003575,
+    "prob_podium": 0.00317
+  },
+  {
+    "team_code": "BIH",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00026,
+    "prob_runner_up": 0.00091,
+    "prob_third": 0.001025,
+    "prob_fourth": 0.00297,
+    "prob_podium": 0.002195
+  },
+  {
+    "team_code": "CPV",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.0002,
+    "prob_runner_up": 0.000635,
+    "prob_third": 0.00088,
+    "prob_fourth": 0.002325,
+    "prob_podium": 0.001715
+  },
+  {
+    "team_code": "HAI",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00019,
+    "prob_runner_up": 0.0006,
+    "prob_third": 0.000675,
+    "prob_fourth": 0.00196,
+    "prob_podium": 0.001465
+  },
+  {
+    "team_code": "KSA",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00018,
+    "prob_runner_up": 0.00066,
+    "prob_third": 0.000715,
+    "prob_fourth": 0.00241,
+    "prob_podium": 0.001555
+  },
+  {
+    "team_code": "RSA",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 0.00015,
+    "prob_runner_up": 0.000545,
+    "prob_third": 0.00062,
+    "prob_fourth": 0.001985,
+    "prob_podium": 0.001315
+  },
+  {
+    "team_code": "GHA",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 5.5e-05,
+    "prob_runner_up": 0.000225,
+    "prob_third": 0.00029,
+    "prob_fourth": 0.001025,
+    "prob_podium": 0.00057
+  },
+  {
+    "team_code": "CUW",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 5.5e-05,
+    "prob_runner_up": 0.000185,
+    "prob_third": 0.000285,
+    "prob_fourth": 0.0009,
+    "prob_podium": 0.000525
+  },
+  {
+    "team_code": "QAT",
+    "model_version": "v2",
+    "n_simulations": 200000,
+    "prob_champion": 2e-05,
+    "prob_runner_up": 8e-05,
+    "prob_third": 0.000125,
+    "prob_fourth": 0.000445,
+    "prob_podium": 0.000225
+  }
+]

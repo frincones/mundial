@@ -33,5 +33,11 @@ export const fetchTeamMatches = (code: string) =>
     `wc_v_matches_with_predictions?or=(home_team_code.eq.${code},away_team_code.eq.${code})&order=match_number`
   );
 
+export const fetchPodium = () =>
+  rest<any[]>("wc_v_podium?select=*");
+
+export const fetchTopScorers = () =>
+  rest<any[]>("wc_top_scorers?model_version=eq.v2&order=predicted_goals.desc&limit=30");
+
 export const fetchPlayers = (teamCode: string) =>
   rest<any[]>(`wc_players?team_code=eq.${teamCode}&select=*&order=jersey_number`);

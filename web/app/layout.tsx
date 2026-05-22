@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Trophy, Calendar, GitBranch, Users, BookOpen, BarChart3 } from "lucide-react";
+import { Trophy, Calendar, GitBranch, Users, BookOpen, BarChart3, Award } from "lucide-react";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -10,6 +10,7 @@ export const metadata: Metadata = {
 
 const NAV = [
   { href: "/", label: "Inicio", icon: Trophy },
+  { href: "/podium", label: "Podio", icon: Award },
   { href: "/matches", label: "Partidos", icon: Calendar },
   { href: "/bracket", label: "Bracket", icon: GitBranch },
   { href: "/teams", label: "Equipos", icon: Users },
