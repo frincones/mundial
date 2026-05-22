@@ -1,0 +1,1903 @@
+[
+  {
+    "match_number": 1,
+    "stage": "group",
+    "home_team_code": "MEX",
+    "away_team_code": "CZE",
+    "prob_home_win": 0.63,
+    "prob_draw": 0.223,
+    "prob_away_win": 0.1469,
+    "expected_home_goals": 1.81,
+    "expected_away_goals": 0.74,
+    "predicted_winner_code": "MEX",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 151.0,
+        "contribution": 1.51,
+        "label": "México es Elo 151 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": -5,
+        "contribution": -0.5,
+        "label": "República Checa viene con mejor forma reciente (Δ goles últimos 10: -5)"
+      },
+      {
+        "feature": "home_advantage",
+        "value": 100,
+        "contribution": 1.0,
+        "label": "México juega de local en su país"
+      }
+    ]
+  },
+  {
+    "match_number": 2,
+    "stage": "group",
+    "home_team_code": "KOR",
+    "away_team_code": "RSA",
+    "prob_home_win": 0.6054,
+    "prob_draw": 0.2306,
+    "prob_away_win": 0.1641,
+    "expected_home_goals": 1.76,
+    "expected_away_goals": 0.79,
+    "predicted_winner_code": "KOR",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 215.0,
+        "contribution": 2.15,
+        "label": "Corea del Sur es Elo 215 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 3,
+    "stage": "group",
+    "home_team_code": "MEX",
+    "away_team_code": "KOR",
+    "prob_home_win": 0.5518,
+    "prob_draw": 0.2446,
+    "prob_away_win": 0.2036,
+    "expected_home_goals": 1.65,
+    "expected_away_goals": 0.9,
+    "predicted_winner_code": "MEX",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 60.0,
+        "contribution": 0.6,
+        "label": "México es Elo 60 pts más alto"
+      },
+      {
+        "feature": "home_advantage",
+        "value": 100,
+        "contribution": 1.0,
+        "label": "México juega de local en su país"
+      }
+    ]
+  },
+  {
+    "match_number": 4,
+    "stage": "group",
+    "home_team_code": "CZE",
+    "away_team_code": "RSA",
+    "prob_home_win": 0.5197,
+    "prob_draw": 0.2514,
+    "prob_away_win": 0.2288,
+    "expected_home_goals": 1.59,
+    "expected_away_goals": 0.96,
+    "predicted_winner_code": "CZE",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 124.0,
+        "contribution": 1.24,
+        "label": "República Checa es Elo 124 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 5,
+    "stage": "group",
+    "home_team_code": "MEX",
+    "away_team_code": "RSA",
+    "prob_home_win": 0.7075,
+    "prob_draw": 0.195,
+    "prob_away_win": 0.0975,
+    "expected_home_goals": 1.98,
+    "expected_away_goals": 0.57,
+    "predicted_winner_code": "MEX",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 275.0,
+        "contribution": 2.75,
+        "label": "México es Elo 275 pts más alto"
+      },
+      {
+        "feature": "home_advantage",
+        "value": 100,
+        "contribution": 1.0,
+        "label": "México juega de local en su país"
+      }
+    ]
+  },
+  {
+    "match_number": 6,
+    "stage": "group",
+    "home_team_code": "CZE",
+    "away_team_code": "KOR",
+    "prob_home_win": 0.2698,
+    "prob_draw": 0.2596,
+    "prob_away_win": 0.4706,
+    "expected_home_goals": 1.06,
+    "expected_away_goals": 1.49,
+    "predicted_winner_code": "KOR",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": -91.0,
+        "contribution": -0.91,
+        "label": "Corea del Sur es Elo 91 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 7,
+    "stage": "group",
+    "home_team_code": "CAN",
+    "away_team_code": "SUI",
+    "prob_home_win": 0.3793,
+    "prob_draw": 0.2666,
+    "prob_away_win": 0.3541,
+    "expected_home_goals": 1.3,
+    "expected_away_goals": 1.25,
+    "predicted_winner_code": "CAN",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": -68.0,
+        "contribution": -0.68,
+        "label": "Suiza es Elo 68 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": -10,
+        "contribution": -1.0,
+        "label": "Suiza viene con mejor forma reciente (Δ goles últimos 10: -10)"
+      },
+      {
+        "feature": "home_advantage",
+        "value": 100,
+        "contribution": 1.0,
+        "label": "Canadá juega de local en su país"
+      }
+    ]
+  },
+  {
+    "match_number": 8,
+    "stage": "group",
+    "home_team_code": "QAT",
+    "away_team_code": "BIH",
+    "prob_home_win": 0.2202,
+    "prob_draw": 0.2485,
+    "prob_away_win": 0.5313,
+    "expected_home_goals": 0.94,
+    "expected_away_goals": 1.61,
+    "predicted_winner_code": "BIH",
+    "predicted_scoreline": "0-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": -94.0,
+        "contribution": -0.94,
+        "label": "Bosnia es Elo 94 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": -20,
+        "contribution": -2.0,
+        "label": "Bosnia viene con mejor forma reciente (Δ goles últimos 10: -20)"
+      }
+    ]
+  },
+  {
+    "match_number": 9,
+    "stage": "group",
+    "home_team_code": "CAN",
+    "away_team_code": "QAT",
+    "prob_home_win": 0.7387,
+    "prob_draw": 0.1817,
+    "prob_away_win": 0.0796,
+    "expected_home_goals": 2.05,
+    "expected_away_goals": 0.5,
+    "predicted_winner_code": "CAN",
+    "predicted_scoreline": "2-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 318.0,
+        "contribution": 3.18,
+        "label": "Canadá es Elo 318 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 17,
+        "contribution": 1.7,
+        "label": "Canadá viene con mejor forma reciente (Δ goles últimos 10: +17)"
+      },
+      {
+        "feature": "home_advantage",
+        "value": 100,
+        "contribution": 1.0,
+        "label": "Canadá juega de local en su país"
+      }
+    ]
+  },
+  {
+    "match_number": 10,
+    "stage": "group",
+    "home_team_code": "SUI",
+    "away_team_code": "BIH",
+    "prob_home_win": 0.6759,
+    "prob_draw": 0.2072,
+    "prob_away_win": 0.1169,
+    "expected_home_goals": 1.91,
+    "expected_away_goals": 0.64,
+    "predicted_winner_code": "SUI",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 292.0,
+        "contribution": 2.92,
+        "label": "Suiza es Elo 292 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 7,
+        "contribution": 0.7,
+        "label": "Suiza viene con mejor forma reciente (Δ goles últimos 10: +7)"
+      }
+    ]
+  },
+  {
+    "match_number": 11,
+    "stage": "group",
+    "home_team_code": "CAN",
+    "away_team_code": "BIH",
+    "prob_home_win": 0.6821,
+    "prob_draw": 0.2049,
+    "prob_away_win": 0.113,
+    "expected_home_goals": 1.92,
+    "expected_away_goals": 0.63,
+    "predicted_winner_code": "CAN",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 224.0,
+        "contribution": 2.24,
+        "label": "Canadá es Elo 224 pts más alto"
+      },
+      {
+        "feature": "home_advantage",
+        "value": 100,
+        "contribution": 1.0,
+        "label": "Canadá juega de local en su país"
+      }
+    ]
+  },
+  {
+    "match_number": 12,
+    "stage": "group",
+    "home_team_code": "SUI",
+    "away_team_code": "QAT",
+    "prob_home_win": 0.7349,
+    "prob_draw": 0.1834,
+    "prob_away_win": 0.0818,
+    "expected_home_goals": 2.04,
+    "expected_away_goals": 0.51,
+    "predicted_winner_code": "SUI",
+    "predicted_scoreline": "2-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 386.0,
+        "contribution": 3.86,
+        "label": "Suiza es Elo 386 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 27,
+        "contribution": 2.7,
+        "label": "Suiza viene con mejor forma reciente (Δ goles últimos 10: +27)"
+      }
+    ]
+  },
+  {
+    "match_number": 13,
+    "stage": "group",
+    "home_team_code": "BRA",
+    "away_team_code": "MAR",
+    "prob_home_win": 0.4505,
+    "prob_draw": 0.2621,
+    "prob_away_win": 0.2874,
+    "expected_home_goals": 1.45,
+    "expected_away_goals": 1.1,
+    "predicted_winner_code": "BRA",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 76.0,
+        "contribution": 0.76,
+        "label": "Brasil es Elo 76 pts más alto"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.16400000000000003,
+        "contribution": 0.16400000000000003,
+        "label": "Brasil tiene mejor historial en Mundiales (winrate 64%)"
+      }
+    ]
+  },
+  {
+    "match_number": 14,
+    "stage": "group",
+    "home_team_code": "SCO",
+    "away_team_code": "HAI",
+    "prob_home_win": 0.5265,
+    "prob_draw": 0.25,
+    "prob_away_win": 0.2234,
+    "expected_home_goals": 1.6,
+    "expected_away_goals": 0.95,
+    "predicted_winner_code": "SCO",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 121.0,
+        "contribution": 1.21,
+        "label": "Escocia es Elo 121 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 5,
+        "contribution": 0.5,
+        "label": "Escocia viene con mejor forma reciente (Δ goles últimos 10: +5)"
+      }
+    ]
+  },
+  {
+    "match_number": 15,
+    "stage": "group",
+    "home_team_code": "BRA",
+    "away_team_code": "SCO",
+    "prob_home_win": 0.6384,
+    "prob_draw": 0.2203,
+    "prob_away_win": 0.1413,
+    "expected_home_goals": 1.83,
+    "expected_away_goals": 0.72,
+    "predicted_winner_code": "BRA",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 240.0,
+        "contribution": 2.4,
+        "label": "Brasil es Elo 240 pts más alto"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.17200000000000004,
+        "contribution": 0.17200000000000004,
+        "label": "Brasil tiene mejor historial en Mundiales (winrate 64%)"
+      }
+    ]
+  },
+  {
+    "match_number": 16,
+    "stage": "group",
+    "home_team_code": "MAR",
+    "away_team_code": "HAI",
+    "prob_home_win": 0.6808,
+    "prob_draw": 0.2053,
+    "prob_away_win": 0.1139,
+    "expected_home_goals": 1.92,
+    "expected_away_goals": 0.63,
+    "predicted_winner_code": "MAR",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 285.0,
+        "contribution": 2.85,
+        "label": "Marruecos es Elo 285 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 12,
+        "contribution": 1.2,
+        "label": "Marruecos viene con mejor forma reciente (Δ goles últimos 10: +12)"
+      }
+    ]
+  },
+  {
+    "match_number": 17,
+    "stage": "group",
+    "home_team_code": "BRA",
+    "away_team_code": "HAI",
+    "prob_home_win": 0.7145,
+    "prob_draw": 0.1921,
+    "prob_away_win": 0.0934,
+    "expected_home_goals": 1.99,
+    "expected_away_goals": 0.56,
+    "predicted_winner_code": "BRA",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 361.0,
+        "contribution": 3.61,
+        "label": "Brasil es Elo 361 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 9,
+        "contribution": 0.9,
+        "label": "Brasil viene con mejor forma reciente (Δ goles últimos 10: +9)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.22200000000000003,
+        "contribution": 0.22200000000000003,
+        "label": "Brasil tiene mejor historial en Mundiales (winrate 64%)"
+      }
+    ]
+  },
+  {
+    "match_number": 18,
+    "stage": "group",
+    "home_team_code": "MAR",
+    "away_team_code": "SCO",
+    "prob_home_win": 0.5792,
+    "prob_draw": 0.2377,
+    "prob_away_win": 0.1831,
+    "expected_home_goals": 1.71,
+    "expected_away_goals": 0.84,
+    "predicted_winner_code": "MAR",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 164.0,
+        "contribution": 1.64,
+        "label": "Marruecos es Elo 164 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 7,
+        "contribution": 0.7,
+        "label": "Marruecos viene con mejor forma reciente (Δ goles últimos 10: +7)"
+      }
+    ]
+  },
+  {
+    "match_number": 19,
+    "stage": "group",
+    "home_team_code": "USA",
+    "away_team_code": "TUR",
+    "prob_home_win": 0.3114,
+    "prob_draw": 0.2646,
+    "prob_away_win": 0.424,
+    "expected_home_goals": 1.16,
+    "expected_away_goals": 1.39,
+    "predicted_winner_code": "TUR",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": -135.0,
+        "contribution": -1.35,
+        "label": "Turquía es Elo 135 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": -6,
+        "contribution": -0.6,
+        "label": "Turquía viene con mejor forma reciente (Δ goles últimos 10: -6)"
+      },
+      {
+        "feature": "home_advantage",
+        "value": 100,
+        "contribution": 1.0,
+        "label": "Estados Unidos juega de local en su país"
+      }
+    ]
+  },
+  {
+    "match_number": 20,
+    "stage": "group",
+    "home_team_code": "PAR",
+    "away_team_code": "AUS",
+    "prob_home_win": 0.3542,
+    "prob_draw": 0.2666,
+    "prob_away_win": 0.3791,
+    "expected_home_goals": 1.25,
+    "expected_away_goals": 1.3,
+    "predicted_winner_code": "AUS",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "form",
+        "value": -6,
+        "contribution": -0.6,
+        "label": "Australia viene con mejor forma reciente (Δ goles últimos 10: -6)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": -0.17300000000000004,
+        "contribution": -0.17300000000000004,
+        "label": "Australia tiene mejor historial en Mundiales (winrate 55%)"
+      }
+    ]
+  },
+  {
+    "match_number": 21,
+    "stage": "group",
+    "home_team_code": "USA",
+    "away_team_code": "PAR",
+    "prob_home_win": 0.3771,
+    "prob_draw": 0.2668,
+    "prob_away_win": 0.3561,
+    "expected_home_goals": 1.3,
+    "expected_away_goals": 1.25,
+    "predicted_winner_code": "USA",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": -96.0,
+        "contribution": -0.96,
+        "label": "Paraguay es Elo 96 pts más alto"
+      },
+      {
+        "feature": "home_advantage",
+        "value": 100,
+        "contribution": 1.0,
+        "label": "Estados Unidos juega de local en su país"
+      }
+    ]
+  },
+  {
+    "match_number": 22,
+    "stage": "group",
+    "home_team_code": "TUR",
+    "away_team_code": "AUS",
+    "prob_home_win": 0.422,
+    "prob_draw": 0.2648,
+    "prob_away_win": 0.3132,
+    "expected_home_goals": 1.39,
+    "expected_away_goals": 1.16,
+    "predicted_winner_code": "TUR",
+    "predicted_scoreline": "1-1",
+    "reasons": []
+  },
+  {
+    "match_number": 23,
+    "stage": "group",
+    "home_team_code": "USA",
+    "away_team_code": "AUS",
+    "prob_home_win": 0.3646,
+    "prob_draw": 0.2668,
+    "prob_away_win": 0.3685,
+    "expected_home_goals": 1.27,
+    "expected_away_goals": 1.28,
+    "predicted_winner_code": "AUS",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": -89.0,
+        "contribution": -0.89,
+        "label": "Australia es Elo 89 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": -5,
+        "contribution": -0.5,
+        "label": "Australia viene con mejor forma reciente (Δ goles últimos 10: -5)"
+      },
+      {
+        "feature": "home_advantage",
+        "value": 100,
+        "contribution": 1.0,
+        "label": "Estados Unidos juega de local en su país"
+      }
+    ]
+  },
+  {
+    "match_number": 24,
+    "stage": "group",
+    "home_team_code": "TUR",
+    "away_team_code": "PAR",
+    "prob_home_win": 0.4347,
+    "prob_draw": 0.2636,
+    "prob_away_win": 0.3017,
+    "expected_home_goals": 1.42,
+    "expected_away_goals": 1.13,
+    "predicted_winner_code": "TUR",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "form",
+        "value": 7,
+        "contribution": 0.7,
+        "label": "Turquía viene con mejor forma reciente (Δ goles últimos 10: +7)"
+      }
+    ]
+  },
+  {
+    "match_number": 25,
+    "stage": "group",
+    "home_team_code": "GER",
+    "away_team_code": "ECU",
+    "prob_home_win": 0.3715,
+    "prob_draw": 0.2664,
+    "prob_away_win": 0.3621,
+    "expected_home_goals": 1.29,
+    "expected_away_goals": 1.26,
+    "predicted_winner_code": "GER",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "form",
+        "value": 9,
+        "contribution": 0.9,
+        "label": "Alemania viene con mejor forma reciente (Δ goles últimos 10: +9)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.354,
+        "contribution": 0.354,
+        "label": "Alemania tiene mejor historial en Mundiales (winrate 70%)"
+      }
+    ]
+  },
+  {
+    "match_number": 26,
+    "stage": "group",
+    "home_team_code": "CIV",
+    "away_team_code": "CUW",
+    "prob_home_win": 0.6121,
+    "prob_draw": 0.2284,
+    "prob_away_win": 0.1595,
+    "expected_home_goals": 1.78,
+    "expected_away_goals": 0.77,
+    "predicted_winner_code": "CIV",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 194.0,
+        "contribution": 1.94,
+        "label": "Costa de Marfil es Elo 194 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 10,
+        "contribution": 1.0,
+        "label": "Costa de Marfil viene con mejor forma reciente (Δ goles últimos 10: +10)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.19200000000000006,
+        "contribution": 0.19200000000000006,
+        "label": "Costa de Marfil tiene mejor historial en Mundiales (winrate 54%)"
+      }
+    ]
+  },
+  {
+    "match_number": 27,
+    "stage": "group",
+    "home_team_code": "GER",
+    "away_team_code": "CIV",
+    "prob_home_win": 0.5838,
+    "prob_draw": 0.2366,
+    "prob_away_win": 0.1796,
+    "expected_home_goals": 1.72,
+    "expected_away_goals": 0.83,
+    "predicted_winner_code": "GER",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 189.0,
+        "contribution": 1.89,
+        "label": "Alemania es Elo 189 pts más alto"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.15499999999999992,
+        "contribution": 0.15499999999999992,
+        "label": "Alemania tiene mejor historial en Mundiales (winrate 70%)"
+      }
+    ]
+  },
+  {
+    "match_number": 28,
+    "stage": "group",
+    "home_team_code": "ECU",
+    "away_team_code": "CUW",
+    "prob_home_win": 0.7224,
+    "prob_draw": 0.1888,
+    "prob_away_win": 0.0888,
+    "expected_home_goals": 2.01,
+    "expected_away_goals": 0.54,
+    "predicted_winner_code": "ECU",
+    "predicted_scoreline": "2-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 407.0,
+        "contribution": 4.07,
+        "label": "Ecuador es Elo 407 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 29,
+    "stage": "group",
+    "home_team_code": "GER",
+    "away_team_code": "CUW",
+    "prob_home_win": 0.7234,
+    "prob_draw": 0.1884,
+    "prob_away_win": 0.0882,
+    "expected_home_goals": 2.01,
+    "expected_away_goals": 0.54,
+    "predicted_winner_code": "GER",
+    "predicted_scoreline": "2-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 383.0,
+        "contribution": 3.83,
+        "label": "Alemania es Elo 383 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 9,
+        "contribution": 0.9,
+        "label": "Alemania viene con mejor forma reciente (Δ goles últimos 10: +9)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.347,
+        "contribution": 0.347,
+        "label": "Alemania tiene mejor historial en Mundiales (winrate 70%)"
+      }
+    ]
+  },
+  {
+    "match_number": 30,
+    "stage": "group",
+    "home_team_code": "ECU",
+    "away_team_code": "CIV",
+    "prob_home_win": 0.5794,
+    "prob_draw": 0.2376,
+    "prob_away_win": 0.183,
+    "expected_home_goals": 1.71,
+    "expected_away_goals": 0.84,
+    "predicted_winner_code": "ECU",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 213.0,
+        "contribution": 2.13,
+        "label": "Ecuador es Elo 213 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": -10,
+        "contribution": -1.0,
+        "label": "Costa de Marfil viene con mejor forma reciente (Δ goles últimos 10: -10)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": -0.19900000000000007,
+        "contribution": -0.19900000000000007,
+        "label": "Costa de Marfil tiene mejor historial en Mundiales (winrate 54%)"
+      }
+    ]
+  },
+  {
+    "match_number": 31,
+    "stage": "group",
+    "home_team_code": "NED",
+    "away_team_code": "JPN",
+    "prob_home_win": 0.4435,
+    "prob_draw": 0.2625,
+    "prob_away_win": 0.294,
+    "expected_home_goals": 1.43,
+    "expected_away_goals": 1.12,
+    "predicted_winner_code": "NED",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "form",
+        "value": 13,
+        "contribution": 1.3,
+        "label": "Países Bajos viene con mejor forma reciente (Δ goles últimos 10: +13)"
+      }
+    ]
+  },
+  {
+    "match_number": 32,
+    "stage": "group",
+    "home_team_code": "SWE",
+    "away_team_code": "TUN",
+    "prob_home_win": 0.3764,
+    "prob_draw": 0.2667,
+    "prob_away_win": 0.3569,
+    "expected_home_goals": 1.3,
+    "expected_away_goals": 1.25,
+    "predicted_winner_code": "SWE",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "form",
+        "value": -6,
+        "contribution": -0.6,
+        "label": "Túnez viene con mejor forma reciente (Δ goles últimos 10: -6)"
+      }
+    ]
+  },
+  {
+    "match_number": 33,
+    "stage": "group",
+    "home_team_code": "NED",
+    "away_team_code": "SWE",
+    "prob_home_win": 0.6694,
+    "prob_draw": 0.2092,
+    "prob_away_win": 0.1214,
+    "expected_home_goals": 1.9,
+    "expected_away_goals": 0.65,
+    "predicted_winner_code": "NED",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 240.0,
+        "contribution": 2.4,
+        "label": "Países Bajos es Elo 240 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 26,
+        "contribution": 2.6,
+        "label": "Países Bajos viene con mejor forma reciente (Δ goles últimos 10: +26)"
+      }
+    ]
+  },
+  {
+    "match_number": 34,
+    "stage": "group",
+    "home_team_code": "JPN",
+    "away_team_code": "TUN",
+    "prob_home_win": 0.6335,
+    "prob_draw": 0.2219,
+    "prob_away_win": 0.1446,
+    "expected_home_goals": 1.82,
+    "expected_away_goals": 0.73,
+    "predicted_winner_code": "JPN",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 232.0,
+        "contribution": 2.32,
+        "label": "Japón es Elo 232 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 7,
+        "contribution": 0.7,
+        "label": "Japón viene con mejor forma reciente (Δ goles últimos 10: +7)"
+      }
+    ]
+  },
+  {
+    "match_number": 35,
+    "stage": "group",
+    "home_team_code": "NED",
+    "away_team_code": "TUN",
+    "prob_home_win": 0.6754,
+    "prob_draw": 0.2073,
+    "prob_away_win": 0.1174,
+    "expected_home_goals": 1.91,
+    "expected_away_goals": 0.64,
+    "predicted_winner_code": "NED",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 264.0,
+        "contribution": 2.64,
+        "label": "Países Bajos es Elo 264 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 20,
+        "contribution": 2.0,
+        "label": "Países Bajos viene con mejor forma reciente (Δ goles últimos 10: +20)"
+      }
+    ]
+  },
+  {
+    "match_number": 36,
+    "stage": "group",
+    "home_team_code": "JPN",
+    "away_team_code": "SWE",
+    "prob_home_win": 0.6267,
+    "prob_draw": 0.2239,
+    "prob_away_win": 0.1493,
+    "expected_home_goals": 1.81,
+    "expected_away_goals": 0.74,
+    "predicted_winner_code": "JPN",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 208.0,
+        "contribution": 2.08,
+        "label": "Japón es Elo 208 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 13,
+        "contribution": 1.3,
+        "label": "Japón viene con mejor forma reciente (Δ goles últimos 10: +13)"
+      }
+    ]
+  },
+  {
+    "match_number": 37,
+    "stage": "group",
+    "home_team_code": "BEL",
+    "away_team_code": "EGY",
+    "prob_home_win": 0.5608,
+    "prob_draw": 0.2419,
+    "prob_away_win": 0.1973,
+    "expected_home_goals": 1.67,
+    "expected_away_goals": 0.88,
+    "predicted_winner_code": "BEL",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 122.0,
+        "contribution": 1.22,
+        "label": "Bélgica es Elo 122 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 20,
+        "contribution": 2.0,
+        "label": "Bélgica viene con mejor forma reciente (Δ goles últimos 10: +20)"
+      }
+    ]
+  },
+  {
+    "match_number": 38,
+    "stage": "group",
+    "home_team_code": "IRN",
+    "away_team_code": "NZL",
+    "prob_home_win": 0.5686,
+    "prob_draw": 0.2402,
+    "prob_away_win": 0.1912,
+    "expected_home_goals": 1.69,
+    "expected_away_goals": 0.86,
+    "predicted_winner_code": "IRN",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 139.0,
+        "contribution": 1.39,
+        "label": "Irán es Elo 139 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 15,
+        "contribution": 1.5,
+        "label": "Irán viene con mejor forma reciente (Δ goles últimos 10: +15)"
+      }
+    ]
+  },
+  {
+    "match_number": 39,
+    "stage": "group",
+    "home_team_code": "BEL",
+    "away_team_code": "IRN",
+    "prob_home_win": 0.4641,
+    "prob_draw": 0.26,
+    "prob_away_win": 0.2759,
+    "expected_home_goals": 1.48,
+    "expected_away_goals": 1.07,
+    "predicted_winner_code": "BEL",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "form",
+        "value": 16,
+        "contribution": 1.6,
+        "label": "Bélgica viene con mejor forma reciente (Δ goles últimos 10: +16)"
+      }
+    ]
+  },
+  {
+    "match_number": 40,
+    "stage": "group",
+    "home_team_code": "EGY",
+    "away_team_code": "NZL",
+    "prob_home_win": 0.473,
+    "prob_draw": 0.259,
+    "prob_away_win": 0.268,
+    "expected_home_goals": 1.49,
+    "expected_away_goals": 1.06,
+    "predicted_winner_code": "EGY",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 61.0,
+        "contribution": 0.61,
+        "label": "Egipto es Elo 61 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 11,
+        "contribution": 1.1,
+        "label": "Egipto viene con mejor forma reciente (Δ goles últimos 10: +11)"
+      }
+    ]
+  },
+  {
+    "match_number": 41,
+    "stage": "group",
+    "home_team_code": "BEL",
+    "away_team_code": "NZL",
+    "prob_home_win": 0.6361,
+    "prob_draw": 0.2203,
+    "prob_away_win": 0.1436,
+    "expected_home_goals": 1.83,
+    "expected_away_goals": 0.72,
+    "predicted_winner_code": "BEL",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 183.0,
+        "contribution": 1.83,
+        "label": "Bélgica es Elo 183 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 31,
+        "contribution": 3.1,
+        "label": "Bélgica viene con mejor forma reciente (Δ goles últimos 10: +31)"
+      }
+    ]
+  },
+  {
+    "match_number": 42,
+    "stage": "group",
+    "home_team_code": "EGY",
+    "away_team_code": "IRN",
+    "prob_home_win": 0.268,
+    "prob_draw": 0.2593,
+    "prob_away_win": 0.4727,
+    "expected_home_goals": 1.06,
+    "expected_away_goals": 1.49,
+    "predicted_winner_code": "IRN",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": -78.0,
+        "contribution": -0.78,
+        "label": "Irán es Elo 78 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 43,
+    "stage": "group",
+    "home_team_code": "ESP",
+    "away_team_code": "URU",
+    "prob_home_win": 0.6709,
+    "prob_draw": 0.2088,
+    "prob_away_win": 0.1203,
+    "expected_home_goals": 1.9,
+    "expected_away_goals": 0.65,
+    "predicted_winner_code": "ESP",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 249.0,
+        "contribution": 2.49,
+        "label": "España es Elo 249 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 22,
+        "contribution": 2.2,
+        "label": "España viene con mejor forma reciente (Δ goles últimos 10: +22)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.183,
+        "contribution": 0.183,
+        "label": "España tiene mejor historial en Mundiales (winrate 62%)"
+      }
+    ]
+  },
+  {
+    "match_number": 44,
+    "stage": "group",
+    "home_team_code": "KSA",
+    "away_team_code": "CPV",
+    "prob_home_win": 0.3548,
+    "prob_draw": 0.2666,
+    "prob_away_win": 0.3787,
+    "expected_home_goals": 1.25,
+    "expected_away_goals": 1.3,
+    "predicted_winner_code": "CPV",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "form",
+        "value": -11,
+        "contribution": -1.1,
+        "label": "Cabo Verde viene con mejor forma reciente (Δ goles últimos 10: -11)"
+      }
+    ]
+  },
+  {
+    "match_number": 45,
+    "stage": "group",
+    "home_team_code": "ESP",
+    "away_team_code": "KSA",
+    "prob_home_win": 0.7657,
+    "prob_draw": 0.1694,
+    "prob_away_win": 0.0649,
+    "expected_home_goals": 2.11,
+    "expected_away_goals": 0.44,
+    "predicted_winner_code": "ESP",
+    "predicted_scoreline": "2-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 531.0,
+        "contribution": 5.31,
+        "label": "España es Elo 531 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 27,
+        "contribution": 2.7,
+        "label": "España viene con mejor forma reciente (Δ goles últimos 10: +27)"
+      }
+    ]
+  },
+  {
+    "match_number": 46,
+    "stage": "group",
+    "home_team_code": "URU",
+    "away_team_code": "CPV",
+    "prob_home_win": 0.6585,
+    "prob_draw": 0.2135,
+    "prob_away_win": 0.128,
+    "expected_home_goals": 1.87,
+    "expected_away_goals": 0.68,
+    "predicted_winner_code": "URU",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 295.0,
+        "contribution": 2.95,
+        "label": "Uruguay es Elo 295 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": -6,
+        "contribution": -0.6,
+        "label": "Cabo Verde viene con mejor forma reciente (Δ goles últimos 10: -6)"
+      }
+    ]
+  },
+  {
+    "match_number": 47,
+    "stage": "group",
+    "home_team_code": "ESP",
+    "away_team_code": "CPV",
+    "prob_home_win": 0.7647,
+    "prob_draw": 0.1699,
+    "prob_away_win": 0.0654,
+    "expected_home_goals": 2.11,
+    "expected_away_goals": 0.44,
+    "predicted_winner_code": "ESP",
+    "predicted_scoreline": "2-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 544.0,
+        "contribution": 5.44,
+        "label": "España es Elo 544 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 16,
+        "contribution": 1.6,
+        "label": "España viene con mejor forma reciente (Δ goles últimos 10: +16)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.16099999999999998,
+        "contribution": 0.16099999999999998,
+        "label": "España tiene mejor historial en Mundiales (winrate 62%)"
+      }
+    ]
+  },
+  {
+    "match_number": 48,
+    "stage": "group",
+    "home_team_code": "URU",
+    "away_team_code": "KSA",
+    "prob_home_win": 0.6651,
+    "prob_draw": 0.2112,
+    "prob_away_win": 0.1237,
+    "expected_home_goals": 1.89,
+    "expected_away_goals": 0.66,
+    "predicted_winner_code": "URU",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 282.0,
+        "contribution": 2.82,
+        "label": "Uruguay es Elo 282 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 5,
+        "contribution": 0.5,
+        "label": "Uruguay viene con mejor forma reciente (Δ goles últimos 10: +5)"
+      }
+    ]
+  },
+  {
+    "match_number": 49,
+    "stage": "group",
+    "home_team_code": "FRA",
+    "away_team_code": "SEN",
+    "prob_home_win": 0.5927,
+    "prob_draw": 0.2342,
+    "prob_away_win": 0.1732,
+    "expected_home_goals": 1.74,
+    "expected_away_goals": 0.81,
+    "predicted_winner_code": "FRA",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 205.0,
+        "contribution": 2.05,
+        "label": "Francia es Elo 205 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 50,
+    "stage": "group",
+    "home_team_code": "NOR",
+    "away_team_code": "IRQ",
+    "prob_home_win": 0.6455,
+    "prob_draw": 0.2177,
+    "prob_away_win": 0.1368,
+    "expected_home_goals": 1.84,
+    "expected_away_goals": 0.71,
+    "predicted_winner_code": "NOR",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 218.0,
+        "contribution": 2.18,
+        "label": "Noruega es Elo 218 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 21,
+        "contribution": 2.1,
+        "label": "Noruega viene con mejor forma reciente (Δ goles últimos 10: +21)"
+      }
+    ]
+  },
+  {
+    "match_number": 51,
+    "stage": "group",
+    "home_team_code": "FRA",
+    "away_team_code": "NOR",
+    "prob_home_win": 0.5554,
+    "prob_draw": 0.2437,
+    "prob_away_win": 0.2009,
+    "expected_home_goals": 1.66,
+    "expected_away_goals": 0.89,
+    "predicted_winner_code": "FRA",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 177.0,
+        "contribution": 1.77,
+        "label": "Francia es Elo 177 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": -9,
+        "contribution": -0.9,
+        "label": "Noruega viene con mejor forma reciente (Δ goles últimos 10: -9)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.18799999999999994,
+        "contribution": 0.18799999999999994,
+        "label": "Francia tiene mejor historial en Mundiales (winrate 57%)"
+      }
+    ]
+  },
+  {
+    "match_number": 52,
+    "stage": "group",
+    "home_team_code": "SEN",
+    "away_team_code": "IRQ",
+    "prob_home_win": 0.6165,
+    "prob_draw": 0.227,
+    "prob_away_win": 0.1565,
+    "expected_home_goals": 1.78,
+    "expected_away_goals": 0.77,
+    "predicted_winner_code": "SEN",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 190.0,
+        "contribution": 1.9,
+        "label": "Senegal es Elo 190 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 15,
+        "contribution": 1.5,
+        "label": "Senegal viene con mejor forma reciente (Δ goles últimos 10: +15)"
+      }
+    ]
+  },
+  {
+    "match_number": 53,
+    "stage": "group",
+    "home_team_code": "FRA",
+    "away_team_code": "IRQ",
+    "prob_home_win": 0.7288,
+    "prob_draw": 0.1861,
+    "prob_away_win": 0.0852,
+    "expected_home_goals": 2.02,
+    "expected_away_goals": 0.53,
+    "predicted_winner_code": "FRA",
+    "predicted_scoreline": "2-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 395.0,
+        "contribution": 3.95,
+        "label": "Francia es Elo 395 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 12,
+        "contribution": 1.2,
+        "label": "Francia viene con mejor forma reciente (Δ goles últimos 10: +12)"
+      }
+    ]
+  },
+  {
+    "match_number": 54,
+    "stage": "group",
+    "home_team_code": "SEN",
+    "away_team_code": "NOR",
+    "prob_home_win": 0.3218,
+    "prob_draw": 0.2654,
+    "prob_away_win": 0.4129,
+    "expected_home_goals": 1.18,
+    "expected_away_goals": 1.37,
+    "predicted_winner_code": "NOR",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "form",
+        "value": -6,
+        "contribution": -0.6,
+        "label": "Noruega viene con mejor forma reciente (Δ goles últimos 10: -6)"
+      }
+    ]
+  },
+  {
+    "match_number": 55,
+    "stage": "group",
+    "home_team_code": "ARG",
+    "away_team_code": "AUT",
+    "prob_home_win": 0.6689,
+    "prob_draw": 0.2098,
+    "prob_away_win": 0.1213,
+    "expected_home_goals": 1.89,
+    "expected_away_goals": 0.66,
+    "predicted_winner_code": "ARG",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 300.0,
+        "contribution": 3.0,
+        "label": "Argentina es Elo 300 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 56,
+    "stage": "group",
+    "home_team_code": "ALG",
+    "away_team_code": "JOR",
+    "prob_home_win": 0.4877,
+    "prob_draw": 0.2567,
+    "prob_away_win": 0.2557,
+    "expected_home_goals": 1.52,
+    "expected_away_goals": 1.03,
+    "predicted_winner_code": "ALG",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 67.0,
+        "contribution": 0.67,
+        "label": "Argelia es Elo 67 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 13,
+        "contribution": 1.3,
+        "label": "Argelia viene con mejor forma reciente (Δ goles últimos 10: +13)"
+      }
+    ]
+  },
+  {
+    "match_number": 57,
+    "stage": "group",
+    "home_team_code": "ARG",
+    "away_team_code": "ALG",
+    "prob_home_win": 0.692,
+    "prob_draw": 0.2011,
+    "prob_away_win": 0.1068,
+    "expected_home_goals": 1.94,
+    "expected_away_goals": 0.61,
+    "predicted_winner_code": "ARG",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 331.0,
+        "contribution": 3.31,
+        "label": "Argentina es Elo 331 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 58,
+    "stage": "group",
+    "home_team_code": "AUT",
+    "away_team_code": "JOR",
+    "prob_home_win": 0.533,
+    "prob_draw": 0.2482,
+    "prob_away_win": 0.2188,
+    "expected_home_goals": 1.61,
+    "expected_away_goals": 0.94,
+    "predicted_winner_code": "AUT",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 98.0,
+        "contribution": 0.98,
+        "label": "Austria es Elo 98 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 18,
+        "contribution": 1.8,
+        "label": "Austria viene con mejor forma reciente (Δ goles últimos 10: +18)"
+      }
+    ]
+  },
+  {
+    "match_number": 59,
+    "stage": "group",
+    "home_team_code": "ARG",
+    "away_team_code": "JOR",
+    "prob_home_win": 0.7325,
+    "prob_draw": 0.1845,
+    "prob_away_win": 0.0831,
+    "expected_home_goals": 2.03,
+    "expected_away_goals": 0.52,
+    "predicted_winner_code": "ARG",
+    "predicted_scoreline": "2-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 398.0,
+        "contribution": 3.98,
+        "label": "Argentina es Elo 398 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 16,
+        "contribution": 1.6,
+        "label": "Argentina viene con mejor forma reciente (Δ goles últimos 10: +16)"
+      }
+    ]
+  },
+  {
+    "match_number": 60,
+    "stage": "group",
+    "home_team_code": "AUT",
+    "away_team_code": "ALG",
+    "prob_home_win": 0.4161,
+    "prob_draw": 0.2652,
+    "prob_away_win": 0.3187,
+    "expected_home_goals": 1.38,
+    "expected_away_goals": 1.17,
+    "predicted_winner_code": "AUT",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "form",
+        "value": 5,
+        "contribution": 0.5,
+        "label": "Austria viene con mejor forma reciente (Δ goles últimos 10: +5)"
+      }
+    ]
+  },
+  {
+    "match_number": 61,
+    "stage": "group",
+    "home_team_code": "POR",
+    "away_team_code": "COL",
+    "prob_home_win": 0.357,
+    "prob_draw": 0.2667,
+    "prob_away_win": 0.3762,
+    "expected_home_goals": 1.25,
+    "expected_away_goals": 1.3,
+    "predicted_winner_code": "COL",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "form",
+        "value": 5,
+        "contribution": 0.5,
+        "label": "Portugal viene con mejor forma reciente (Δ goles últimos 10: +5)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.17600000000000005,
+        "contribution": 0.17600000000000005,
+        "label": "Portugal tiene mejor historial en Mundiales (winrate 54%)"
+      }
+    ]
+  },
+  {
+    "match_number": 62,
+    "stage": "group",
+    "home_team_code": "COD",
+    "away_team_code": "UZB",
+    "prob_home_win": 0.2942,
+    "prob_draw": 0.2629,
+    "prob_away_win": 0.4429,
+    "expected_home_goals": 1.12,
+    "expected_away_goals": 1.43,
+    "predicted_winner_code": "UZB",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": -64.0,
+        "contribution": -0.64,
+        "label": "Uzbekistán es Elo 64 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 63,
+    "stage": "group",
+    "home_team_code": "POR",
+    "away_team_code": "COD",
+    "prob_home_win": 0.6541,
+    "prob_draw": 0.215,
+    "prob_away_win": 0.1309,
+    "expected_home_goals": 1.86,
+    "expected_away_goals": 0.69,
+    "predicted_winner_code": "POR",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 258.0,
+        "contribution": 2.58,
+        "label": "Portugal es Elo 258 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 7,
+        "contribution": 0.7,
+        "label": "Portugal viene con mejor forma reciente (Δ goles últimos 10: +7)"
+      }
+    ]
+  },
+  {
+    "match_number": 64,
+    "stage": "group",
+    "home_team_code": "COL",
+    "away_team_code": "UZB",
+    "prob_home_win": 0.6123,
+    "prob_draw": 0.2285,
+    "prob_away_win": 0.1592,
+    "expected_home_goals": 1.78,
+    "expected_away_goals": 0.77,
+    "predicted_winner_code": "COL",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 217.0,
+        "contribution": 2.17,
+        "label": "Colombia es Elo 217 pts más alto"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": -0.17100000000000004,
+        "contribution": -0.17100000000000004,
+        "label": "Uzbekistán tiene mejor historial en Mundiales (winrate 54%)"
+      }
+    ]
+  },
+  {
+    "match_number": 65,
+    "stage": "group",
+    "home_team_code": "POR",
+    "away_team_code": "UZB",
+    "prob_home_win": 0.6052,
+    "prob_draw": 0.2306,
+    "prob_away_win": 0.1643,
+    "expected_home_goals": 1.76,
+    "expected_away_goals": 0.79,
+    "predicted_winner_code": "POR",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 194.0,
+        "contribution": 1.94,
+        "label": "Portugal es Elo 194 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 8,
+        "contribution": 0.8,
+        "label": "Portugal viene con mejor forma reciente (Δ goles últimos 10: +8)"
+      }
+    ]
+  },
+  {
+    "match_number": 66,
+    "stage": "group",
+    "home_team_code": "COL",
+    "away_team_code": "COD",
+    "prob_home_win": 0.6597,
+    "prob_draw": 0.2131,
+    "prob_away_win": 0.1272,
+    "expected_home_goals": 1.87,
+    "expected_away_goals": 0.68,
+    "predicted_winner_code": "COL",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 281.0,
+        "contribution": 2.81,
+        "label": "Colombia es Elo 281 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 67,
+    "stage": "group",
+    "home_team_code": "ENG",
+    "away_team_code": "CRO",
+    "prob_home_win": 0.4676,
+    "prob_draw": 0.26,
+    "prob_away_win": 0.2725,
+    "expected_home_goals": 1.48,
+    "expected_away_goals": 1.07,
+    "predicted_winner_code": "ENG",
+    "predicted_scoreline": "1-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 91.0,
+        "contribution": 0.91,
+        "label": "Inglaterra es Elo 91 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 68,
+    "stage": "group",
+    "home_team_code": "GHA",
+    "away_team_code": "PAN",
+    "prob_home_win": 0.1655,
+    "prob_draw": 0.2311,
+    "prob_away_win": 0.6034,
+    "expected_home_goals": 0.79,
+    "expected_away_goals": 1.76,
+    "predicted_winner_code": "PAN",
+    "predicted_scoreline": "0-1",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": -203.0,
+        "contribution": -2.03,
+        "label": "Panamá es Elo 203 pts más alto"
+      }
+    ]
+  },
+  {
+    "match_number": 69,
+    "stage": "group",
+    "home_team_code": "ENG",
+    "away_team_code": "GHA",
+    "prob_home_win": 0.7439,
+    "prob_draw": 0.1794,
+    "prob_away_win": 0.0767,
+    "expected_home_goals": 2.06,
+    "expected_away_goals": 0.49,
+    "predicted_winner_code": "ENG",
+    "predicted_scoreline": "2-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 440.0,
+        "contribution": 4.4,
+        "label": "Inglaterra es Elo 440 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 15,
+        "contribution": 1.5,
+        "label": "Inglaterra viene con mejor forma reciente (Δ goles últimos 10: +15)"
+      }
+    ]
+  },
+  {
+    "match_number": 70,
+    "stage": "group",
+    "home_team_code": "CRO",
+    "away_team_code": "PAN",
+    "prob_home_win": 0.5781,
+    "prob_draw": 0.2377,
+    "prob_away_win": 0.1841,
+    "expected_home_goals": 1.71,
+    "expected_away_goals": 0.84,
+    "predicted_winner_code": "CRO",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 146.0,
+        "contribution": 1.46,
+        "label": "Croacia es Elo 146 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 16,
+        "contribution": 1.6,
+        "label": "Croacia viene con mejor forma reciente (Δ goles últimos 10: +16)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.16899999999999993,
+        "contribution": 0.16899999999999993,
+        "label": "Croacia tiene mejor historial en Mundiales (winrate 57%)"
+      }
+    ]
+  },
+  {
+    "match_number": 71,
+    "stage": "group",
+    "home_team_code": "ENG",
+    "away_team_code": "PAN",
+    "prob_home_win": 0.648,
+    "prob_draw": 0.217,
+    "prob_away_win": 0.135,
+    "expected_home_goals": 1.85,
+    "expected_away_goals": 0.7,
+    "predicted_winner_code": "ENG",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 237.0,
+        "contribution": 2.37,
+        "label": "Inglaterra es Elo 237 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 12,
+        "contribution": 1.2,
+        "label": "Inglaterra viene con mejor forma reciente (Δ goles últimos 10: +12)"
+      },
+      {
+        "feature": "wc_pedigree",
+        "value": 0.19799999999999995,
+        "contribution": 0.19799999999999995,
+        "label": "Inglaterra tiene mejor historial en Mundiales (winrate 60%)"
+      }
+    ]
+  },
+  {
+    "match_number": 72,
+    "stage": "group",
+    "home_team_code": "CRO",
+    "away_team_code": "GHA",
+    "prob_home_win": 0.717,
+    "prob_draw": 0.191,
+    "prob_away_win": 0.092,
+    "expected_home_goals": 2.0,
+    "expected_away_goals": 0.55,
+    "predicted_winner_code": "CRO",
+    "predicted_scoreline": "1-0",
+    "reasons": [
+      {
+        "feature": "elo_diff",
+        "value": 349.0,
+        "contribution": 3.49,
+        "label": "Croacia es Elo 349 pts más alto"
+      },
+      {
+        "feature": "form",
+        "value": 19,
+        "contribution": 1.9,
+        "label": "Croacia viene con mejor forma reciente (Δ goles últimos 10: +19)"
+      }
+    ]
+  }
+]

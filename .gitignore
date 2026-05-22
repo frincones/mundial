@@ -1,0 +1,15 @@
+﻿.env
+.env.*
+!.env.example
+node_modules/
+.next/
+out/
+dist/
+__pycache__/
+*.pyc
+.venv/
+data/output/
+*.log
+.vercel/
+.DS_Store
+Thumbs.db

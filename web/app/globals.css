@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(135deg, #fef3f2 0%, #fffaeb 100%);
+  color: #1e293b;
+  font-family: Inter, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+.card { @apply bg-white border border-slate-200 rounded-xl shadow-sm; }
+.btn-primary { @apply inline-flex items-center justify-center px-4 py-2 rounded-md font-medium text-sm bg-wc-600 text-white hover:bg-wc-700 transition-colors; }
+.btn-secondary { @apply inline-flex items-center justify-center px-4 py-2 rounded-md font-medium text-sm bg-white text-slate-700 border border-slate-300 hover:bg-slate-50 transition-colors; }
+.badge { @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-medium; }
+.badge-success { @apply badge bg-emerald-100 text-emerald-700; }
+.badge-warn { @apply badge bg-amber-100 text-amber-700; }
+.badge-info { @apply badge bg-wc-100 text-wc-700; }
+.badge-gold { @apply badge bg-wcgold-50 text-wcgold-600; }
+.badge-neutral { @apply badge bg-slate-100 text-slate-600; }
+
+.prob-bar { @apply relative overflow-hidden rounded-full bg-slate-100 h-2.5; }
+.prob-fill-home { @apply absolute inset-y-0 left-0 bg-blue-500 transition-all; }
+.prob-fill-draw { @apply absolute inset-y-0 bg-slate-400 transition-all; }
+.prob-fill-away { @apply absolute inset-y-0 right-0 bg-rose-500 transition-all; }
